@@ -1,0 +1,38 @@
+---
+layout: default
+title: Paul's Blog
+pagination: 
+  enabled: true
+---
+
+{% if paginator.page == 1 %}
+<div class="grid-container">
+  {% for post in paginator.posts %}
+    {% if forloop.first %}
+    <div class="grid-item grid-main-item mark">
+    {% else %}
+    <div class="grid-item mark">
+    {% endif %}
+
+    {% include preview.html %}
+    </div>
+  {% endfor %}
+</div>
+{% else %}
+<div class="grid-container">
+
+  {% for post in paginator.posts %}
+    <div class="grid-item mark">
+      {% include preview.html %}
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+
+{% include pagination.html %}
+<hr>
+{% include footer.html %}
+
+

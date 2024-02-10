@@ -13,6 +13,7 @@ body {
   max-height: 200px;
   width: 100%;
   border-bottom: 1px solid #000;
+  overflow: hidden;
 }
 
 .p-header-content {
@@ -23,6 +24,14 @@ body {
 .p-banner {
   max-height: 200px;
 }
+
+.p-banner-anchor:hover {
+  .p-banner {
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+  }
+}
+
 
 .p-header-title {
   display: flex;

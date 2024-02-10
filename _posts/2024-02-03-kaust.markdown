@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "KAUST Beacon"
+date:   2024-02-03 22:32:42 +0100
+img: 
+  - assets/img/beacon.jpg
+---
+Haven't been to KAUST yet, but I've heard it's a place to work.

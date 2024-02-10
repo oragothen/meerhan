@@ -1,12 +1,14 @@
+<a href="{{ post.url | relative_url }}" class="p-post-anchor">
 <div class="p-post-thumb">
 {% if post.img %}
     <img src="{{ post.img[0] | relative_url }}" class="p-post-thumb" alt="{{ post.title }}">
 {% endif %}
 <div class="p-post-thumb-text">
-<span class="p-post-title">{{ post.title }}</span>
+<h3 class="p-post-title">{{ post.title }}</h3>
 <hr class="thumb">
-<span class="p-post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
+<h5 class="p-post-date">{{ post.date | date: "%d.%m.%Y" }}</h5>
 </div>
 </div>
+</a>
 
     

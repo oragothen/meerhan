@@ -23,12 +23,14 @@ body {
 
 .p-banner {
   max-height: 200px;
+  transition: all ease-in-out 0.3s;
 }
 
 .p-banner-anchor:hover {
   .p-banner {
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
+    transition: all ease-in-out 0.3s;
   }
 }
 

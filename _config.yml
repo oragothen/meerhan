@@ -21,7 +21,7 @@
 title: Mit Meehan ans Meer ran
 email: oragothen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Der einzig wahre Blog über Fische, Freunde, Meer und die weite Welt
+ Der einzig wahre Blog über Fische, Freunde, Meer und die weite Welt
 baseurl: "/meerhan" # the subpath of your site, e.g. /blog
 url: "https://oragothen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 

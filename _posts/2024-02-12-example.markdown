@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Visiting Strasbourg"
+date:   2024-02-12 10:20:00 +0100
+img: 
+  - assets/img/strasbourg.jpg
+  - assets/img/strasbourg2.jpg
+---
+I recently visited Strasbourg and it was a great experience. The city is beautiful and the food is amazing.
+Top tier city, would recommend. 

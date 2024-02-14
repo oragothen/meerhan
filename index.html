@@ -9,9 +9,9 @@ pagination:
 <div class="grid-container">
   {% for post in paginator.posts %}
     {% if forloop.first %}
-    <div class="grid-item grid-main-item mark">
+    <div class="grid-item grid-main-item">
     {% else %}
-    <div class="grid-item mark">
+    <div class="grid-item">
     {% endif %}
 
     {% include preview.html %}
@@ -22,7 +22,7 @@ pagination:
 <div class="grid-container">
 
   {% for post in paginator.posts %}
-    <div class="grid-item mark">
+    <div class="grid-item">
       {% include preview.html %}
     </div>
   {% endfor %}

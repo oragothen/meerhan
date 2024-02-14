@@ -4,9 +4,11 @@ $grid-main-width: 600px;
 $grid-item-width: 300px;
 $screen-breakpoint: 1000px;
 $thumb-hover-bg: rgba(0, 0, 0, 0.5);
+$bg-color: #f3cb6b;
 
 body {
   margin: 0;
+  background-color: $bg-color;
 }
 
 .p-header {
@@ -33,7 +35,6 @@ body {
     transition: all ease-in-out 0.3s;
   }
 }
-
 
 .p-header-title {
   display: flex;
@@ -146,10 +147,6 @@ div.p-post-thumb {
     grid-row: 1 / 2;
     min-width: $grid-item-width;
   }
-}
-
-.mark {
-  border: 1px solid #000;
 }
 
 .pagination {

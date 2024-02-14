@@ -2,9 +2,10 @@
 layout: post
 title:  "Babbys first Blogpost"
 date:   2024-02-14 12:45:00 +0100
-img: 
-  - assets/img/test1.jpg
---- 
+imgs: 
+  - path: assets/img/test1.jpg
+    desc: "Image of Paul with a frog on his head"
+---
 Das Ganze hier ergab sich aus dem Gedanken, meine bloghungrigen Mitmenschen aus ihrem Mangel geistiger Stimulation zu sättigen. 
 <br>
 Ein guter Freund von mir, der namenlos bleiben wird, bengann vor einiger Zeit, einen Blog zu führen; jedoch hat dieser gute Mensch seit über einem Jahr keinen neuen Blogpost geschrieben,

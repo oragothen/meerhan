@@ -25,7 +25,26 @@ body {
 
 .p-banner {
   max-height: 200px;
-  transition: all ease-in-out 0.3s;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.p-banner-anchor {
+  .p-banner.open {
+    opacity: 0;
+  }
+
+  .p-banner.closed {
+    opacity: 1;
+  }
+}
+
+.p-header-banner {
+  position: relative;
+  height: 200px;
+  width: 45vw;
 }
 
 .p-banner-anchor:hover {
@@ -33,6 +52,10 @@ body {
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
     transition: all ease-in-out 0.3s;
+  }
+
+  .p-banner.open {
+    opacity: 1;
   }
 }
 
@@ -95,6 +118,7 @@ div.p-post-thumb {
   transition: background-size 0.5s;
   --bg-h: 100%;
 }
+
 .p-post-anchor:where(:hover, :focus-visible) {
 
   .p-post-thumb-text {
@@ -178,7 +202,9 @@ div.p-post-thumb {
   border: 1px solid #4CAF50;
 }
 
-.pagination a:hover:not(.active) {background-color: #ddd;}
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+}
 
 .pagination a:first-child {
   border-top-left-radius: 5px;

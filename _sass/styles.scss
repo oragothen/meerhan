@@ -1,5 +1,6 @@
-$primary: #ff8787;
+$primary: #228B22;
 $secondary: #dfdfdf;
+$tertiary: #444444;
 $grid-main-width: 600px;
 $grid-item-width: 300px;
 $screen-breakpoint: 1000px;
@@ -98,19 +99,19 @@ div.p-post-thumb {
 
 .p-post-title {
   font-size: 2em;
-  color: $primary;
+  color: $tertiary;
   margin: 0;
 }
 
 .p-post-date {
   font-size: 1em;
-  color: $primary;
+  color: $tertiary;
   margin: 0;
 }
 
 .p-post-anchor {
   text-decoration: none;
-  color: $primary;
+  color: $tertiary;
 }
 
 .p-post-thumb-text {

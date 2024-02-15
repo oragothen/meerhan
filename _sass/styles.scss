@@ -234,3 +234,9 @@ div.p-post-thumb {
   grid-row: 1 / 2;
   text-align: right;
 }
+
+.scale-img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}

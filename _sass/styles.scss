@@ -5,6 +5,7 @@ $grid-item-width: 300px;
 $screen-breakpoint: 1000px;
 $thumb-hover-bg: rgba(0, 0, 0, 0.5);
 $bg-color: #f3cb6b;
+$header-height: 200px;
 
 body {
   margin: 0;
@@ -12,26 +13,33 @@ body {
 }
 
 .p-header {
-  max-height: 200px;
+  height: 200px;
   width: 100%;
   border-bottom: 1px solid #000;
   overflow: hidden;
 }
 
-.p-header-content {
-  display: block;
-  margin: 0 auto;
+.p-banner {
+  height: 100%;
 }
 
-.p-banner {
-  max-height: 200px;
+.p-banner.closed {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.p-banner.open {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 99;
 }
 
-.p-banner-anchor {
+.p-header-banner-anchor {
+  height: 100%;
+  display: flex;
+
+
   .p-banner.open {
     opacity: 0;
   }
@@ -43,11 +51,11 @@ body {
 
 .p-header-banner {
   position: relative;
-  height: 200px;
-  width: 45vw;
+  top: 0;
+  left: 0;
 }
 
-.p-banner-anchor:hover {
+.p-header-banner-anchor:hover {
   .p-banner {
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
@@ -62,6 +70,7 @@ body {
 .p-header-title {
   display: flex;
   align-items: center;
+  height: 100%;
 }
 
 .p-title {
@@ -170,6 +179,24 @@ div.p-post-thumb {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     min-width: $grid-item-width;
+  }
+
+  .p-header {
+    height: unset;
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .p-banner {
+    width: 100%;
+  }
+
+  .p-title {
+    text-align: center;
+  }
+
+  .p-header-banner {
+    width: 100%;
   }
 }
 

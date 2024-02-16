@@ -12,7 +12,7 @@ layout: default
   <div class="gallery">
     {% for img in page.imgs %}
         <a href="{{ img.path | relative_url }}">
-            <img src="{{ img.path | relative_url }}" alt="Fish" class="gallery-image">
+            <img src="{{ img.path | relative_url }}" alt="Fish" class="gallery-image scale-img" width="500">
         </a>
     {% endfor %}
     </div>

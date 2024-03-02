@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Datang"
-date:   2024-03-02 9:30:00 +0400
+date:   2024-03-03 01:00:00 +0400
 imgs: 
   - path: assets/img/airselfie.jpg
     desc: "Paul and Lily after arriving"

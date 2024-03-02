@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flug No. 1"
-date:   2024-03-02 9:30:00 +0100
+date:   2024-03-02 9:30:00 +0400
 imgs: 
   - path: assets/img/coffee.jpg
     desc: "A tasty cup of coffee"

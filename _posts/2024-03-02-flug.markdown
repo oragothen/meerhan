@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Flug No. 1"
+date:   2024-03-02 10:30:00 +0100
+imgs: 
+  - path: assets/img/coffee.jpg
+    desc: "A tasty cup of coffee"
+  - path: assets/img/pl_abudhabi.jpg
+    desc: "Paul and Lily being sleep-deprived in Abu Dhabi Airport"
+---
+ 
+Wer mich ein bisschen kennt, oder mal mein Zimmer (oder meinen <a href="/assets/img/code.png">Code</a>) gesehen hat, der weiß, dass ich ein Mensch des Chaos bin.
+Dies hat viele Konsequenzen, aber eine davon ist, dass mein Lieblings-Profi-AOE2-Spieler MBL ist. Wie erfreulich, dass bei dem Achtelfinalspiel, das ich auf dem Flug (nur zur Hälfte, den Rest der Zeit habe ich versucht zu schlafen) angeschaut habe, sich so ziemlich jeder sicher ist, dass einer der beiden versteckt gehaltenen Spieler der "Master Boar Lamer" ist.
+Ob er das tatsächlich ist oder nicht wird sich erst nach dem Turnier herausstellen - aber unabhängig davon ist Jadwiga gegen Otto the Great ein absoluter Spaß zu schauen.
+Spaßfakt: Jadwiga war eine Frau, aber trotzdem der König von Polen. Gesetzlich war nämlich vorgesehen, dass das Staatsoberhaupt der König war; eine Königin war nicht vorgesehen. Jadwiga löste das Gender-Problem, <a href="/assets/img/gigachad.png">indem sie es ignorierte</a> und einfach zum König wurde.
+ 
+Mein Körper beschwert sich über zu wenig Schlaf - aber bis jetzt denkt der Doofe noch, dass es daran liegt, dass man im Flugzeug schlecht schlafen kann, und nicht daran dass die Nacht einfach 3 Stunden kürzer ist.
+Wenn das so weiter geht klappt das mit dem Jetlag austricksen, <a href="/assets/img/right.jpg">right</a>? Ein sehr leckerer Kaffee im Flughafen in Abu Dhabi hat mich direkt wieder aufgeweckt. <a href="/assets/img/right.jpg">Sicherlich</a> werde ich jetzt für den Rest der Reise wach sein.
+ 
+Bald geht der Flug nach Jakarta. Ich kann hier im Wartebereich schon sehr viele Worte dalam bahasa Indonesia, die ich kenne, von Leuten aufschnappen; ganze Sätze klappen aber nicht ganz so gut wie erhofft. 
+
+Ankunft in Jakarta ist 21:55 lokaler Zeit, 15:55 deutsche (Entschuldigung, ich meine natürlich GMT+1) Zeit, oder 8:55 Sonia (GMT-6) Zeit.

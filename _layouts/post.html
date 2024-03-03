@@ -11,9 +11,16 @@ layout: default
   {% if page.imgs %}
   <div class="gallery-grid">
     {% for img in page.imgs %}
+        <div class="gallery-item">
         <a href="{{ img.path | relative_url }}" class="gallery-link">
             <img src="{{ img.path | relative_url }}" alt="{{ img.desc }}" class="grid-item gallery-img">
         </a>
+        {% capture toggleid %}gallery-img-desc-{{ forloop.index }}{% endcapture %}
+        <input type="checkbox" id="{{ toggleid }}" class="gallery-img-desc-toggle">
+        <label for="{{ toggleid }}" class="gallery-img-desc-label"><i class="fa-solid fa-circle-info info-icon"></i><div class="gallery-img-desc">
+            <p class="gallery-img-desc-text">{{ img.desc }}</p>
+        </div></label>
+        </div>
     {% endfor %}
     </div>
   {% endif %}

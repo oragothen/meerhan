@@ -3,3 +3,7 @@
 
 @import "styles";
 
+$fa-font-path:        "../fonts/fontawesome";
+@import "fontawesome/scss/fontawesome";
+@import "fontawesome/scss/brands";
+@import "fontawesome/scss/solid";

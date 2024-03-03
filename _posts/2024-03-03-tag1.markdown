@@ -23,7 +23,7 @@ imgs:
   desc: "Flower"
 - path: assets/img/03/IMG_20240303_135121.jpg
   desc: "Monas"
-- path: assets/img/03/IMG_20240303_163244.jpg
+- path: assets/img/03/IMG_20240303_162344.jpg
   desc: "Old Dutch Rathaus"
 - path: assets/img/03/IMG_20240303_163405.jpg
   desc: "Flower"

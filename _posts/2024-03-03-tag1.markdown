@@ -39,7 +39,7 @@ imgs:
   desc: "Nochmal Paul und Lily"
 - path: assets/img/03/IMG_20240303_165243.jpg
   desc: "Flower"
-- path: assets/img/03/IMG_20240303_165428.jpg
+- path: assets/img/03/IMG_20240303_165428.png
   desc: "Jakarta Town Trainstation"
 - path: assets/img/03/IMG_20240303_165529.jpg
   desc: "Flower"

@@ -45,8 +45,10 @@
   <!-- End Jekyll SEO tag -->
   <link rel="stylesheet" href="/meerhan/assets/css/main.css" />
   <link rel="icon" type="image/png" href="/meerhan/favicon.ico" />
+
   <title>Babbys first Blogpost - Mit Meehan ans Meer ran</title>
 </head>
+
 <body class="backdrop">
   <div class="p-header container">
     <a href="/meerhan/" class="p-header-banner-anchor">
@@ -98,17 +100,36 @@
         Mein Flug nach Indonesien geht? fliegt? am 1. März - der erste richtige
         Post wird dann darauf bald folgen.
       </p>
+
       <hr />
+
       <div class="gallery-grid">
-        <a href="/meerhan/assets/img/test1.jpg" class="gallery-link">
-          <img
-            src="/meerhan/assets/img/test1.jpg"
-            alt="Image of Paul with a frog on his head"
-            class="grid-item gallery-img"
+        <div class="gallery-item">
+          <a href="/meerhan/assets/img/test1.jpg" class="gallery-link">
+            <img
+              src="/meerhan/assets/img/test1.jpg"
+              alt="Image of Paul with a frog on his head"
+              class="grid-item gallery-img"
+            />
+          </a>
+
+          <input
+            type="checkbox"
+            id="gallery-img-desc-1"
+            class="gallery-img-desc-toggle"
           />
-        </a>
+          <label for="gallery-img-desc-1" class="gallery-img-desc-label"
+            ><i class="fa-solid fa-circle-info info-icon"></i>
+            <div class="gallery-img-desc">
+              <p class="gallery-img-desc-text">
+                Image of Paul with a frog on his head
+              </p>
+            </div></label
+          >
+        </div>
       </div>
     </div>
+
     <hr />
     <footer>
       <div class="footer-container">

@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Tag 1"
+date:   2024-03-03 22:30:00 +0700
+imgs: 
+- path: assets/img/03/IMG_20240303_095214.jpg
+  desc: "Breakfast"
+- path: assets/img/03/IMG_20240303_105600.jpg
+  desc: "Rain"
+- path: assets/img/03/IMG_20240303_105619.jpg
+  desc: "Rain"
+- path: assets/img/03/IMG_20240303_105632.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_122256.jpg
+  desc: "Jakarta Skyline"
+- path: assets/img/03/IMG_20240303_132326.jpg
+  desc: "Lunch: Gado-Gado"
+- path: assets/img/03/IMG_20240303_134245.jpg
+  desc: "Paul with Monas"
+- path: assets/img/03/IMG_20240303_134939.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_134956.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_135121.jpg
+  desc: "Monas"
+- path: assets/img/03/IMG_20240303_162344.jpg
+  desc: "Old Dutch Rathaus"
+- path: assets/img/03/IMG_20240303_163405.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_163414.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_163935.jpg
+  desc: "Mülltrennung my beloved"
+- path: assets/img/03/IMG_20240303_164951.jpg
+  desc: "Ein kaputtes Haus hält nicht vom Arbeiten ab"
+- path: assets/img/03/IMG_20240303_165118.jpg
+  desc: "Paul und Lily"
+- path: assets/img/03/IMG_20240303_165120.jpg
+  desc: "Nochmal Paul und Lily"
+- path: assets/img/03/IMG_20240303_165243.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_165428.png
+  desc: "Jakarta Town Trainstation"
+- path: assets/img/03/IMG_20240303_165529.jpg
+  desc: "Flower"
+- path: assets/img/03/IMG_20240303_170327.jpg
+  desc: "Best host family on the planet"
+- path: assets/img/03/IMG_20240303_175348.jpg
+  desc: "Shacks in front of Skyscrapers"
+---
+
+Hahahaha wer hätte gedacht dass Jetlag so leicht auszutricksen ist. Jakarta liegt in GMT+7, also 6 Stunden vor Deutschland - bedeutet, dass mein Körper eigentlich länger wach bleiben und länger schlafen will. Dadurch dass ich aber auf dem Flug in der Nacht vom 1. auf den 2. nur so 2 Stunden geschlafen habe, war ich entgegen der Gesetze des Jetlags müde und konnte schlafen obwohl ich <a href="/meerhan/assets/img/artemis.png">eigentlich gar nicht durfte</a>.
+Nachdem ich <a href="https://c.tenor.com/Eh4Gt4BAY_EAAAAC/tenor.gif">sanft</a> geweckt wurde.
+
+Danach direkt die erste unangenehme Überraschung. Leute sagen immer "komm nach Indonesien, es gibt Essen" aber ich wusste nicht, dass mit dem Essen ich selbst gemeint bin. Selbst in der Stadt besteht ein unangenehmes Mosquito-Problem. Ist ja auch fair dass wenn ich exotisch esse dass die örtliche Fauna auch exotisch essen möchte. Zum Glück sind die ganzen Tropenkrankheiten nicht in Jakarta sondern in Kalimantan (wo es in ein paar Tagen hingeht 💀).
+
+Weitere Dinge, die hier sehr anders sind: 
+- Regen: Die Mengen an Regen, die hier runter kommen sind unbeschreiblich, darum probiere ich es erst gar nicht 
+- Straßenverkehr: Linksfahren, überall Mopeds, enge Straßen, Pferdekutschen, lebensmüde Fußgänger, Chaos, Trillerpfeifen, CHAOS WEEEEEE
+- Preisniveau: insbesondere Essen ist deutlich billiger als in Deutschland. Wir waren zu fünft mit Getränken für 90.000 IDR Mittag essen (in etwa die [Kosten eines Döners in Baden-Württemberg Ende 2022](/meerhan/assets/img/doner.png)).
+
+Jakarta ist massiv. Das Metropolgebiet hat über 34 Millionen Einwohner (und damit etwa 12% der Einwohner Indonesiens), und ist so groß, wie das "ich komme aus der 'Nähe' von Stuttgart"-Gebiet (in metrischen Einheiten: 1MFbf (Mega-Fußballfeld)).
+Die Straßen- und Brückenführung sieht aus, als hätte sie [Josh](https://www.youtube.com/@LetsGameItOut/videos) entworfen; gekoppelt mit der Verkehrssituation bin ich sehr dankbar, dass ich nicht selber fahren muss.
+
+Heute war ich am Monas (Monumen Nasional), das dem Washington Monument ähnelt; leider war oben zu. Wir konnten aber trotzdem in das Museum im Keller, das sehr schön die indonesische Geschichte zusammenfasst (Spoiler Alert: Sehr viel Kampf und Krieg, hauptsächlich im Kontext der Unabhängigkeit); mein begleitender Factchecker hat bei ein paar von den Geschichten jedoch ein wenig Richtung "Propaganda" ausgeschlagen.
+Die historische Altstadt hat ein paar nette erhaltene Gebäude aus der Kolonialzeit, aber das spannendste daran ist der pochende Herzschlag der Stadt. An jeder Straßenecke spielt eine andere Band, es gibt dutzende Stände, die alles von Es Teh über Tätowierungen zu Handtaschen verkaufen. 
+Und so viele Menschen. Einer fragt mich nervös, ob er ein Foto mit mir machen kann. Kurze Zeit später beobachte ich, wie ein anderer Weißer auch ein spontanes Photoshooting mitmacht. 
+
+Zum Abschluss des Tages ging es dann noch in den Mall für ein bisschen beli-beli. Ich bin jetzt stolzer Besitzer eines süßen Fußmassagers, und habe außerdem den [billigsten Döner meines Lebens](/meerhan/assets/img/doner.png) gefunden (aber nicht gegessen).
+
+Es tut mir Leid, dass der heutige Blog mit anderem Inhalt als sonst gefüllt ist; aber da ich jetzt leider in Indonesien bin, muss ich den versprochenen Content produzieren, anstatt wieder über gesellschaftliche Missstände abzuranten.
+Ach so und wer zuerst Waldo findet (mit Screenshot) gewinnt was schönes.

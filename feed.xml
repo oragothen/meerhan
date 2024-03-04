@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://oragothen.github.io//meerhan/feed.xml" rel="self" type="application/atom+xml" /><link href="https://oragothen.github.io//meerhan/" rel="alternate" type="text/html" /><updated>2024-03-04T12:06:56+00:00</updated><id>https://oragothen.github.io//meerhan/feed.xml</id><title type="html">Mit Meehan ans Meer ran</title><subtitle>Der einzig wahre Blog über Fische, Freunde, Meer und die weite Welt</subtitle><entry><title type="html">Tag 1</title><link href="https://oragothen.github.io//meerhan/2024/03/03/tag1.html" rel="alternate" type="text/html" title="Tag 1" /><published>2024-03-03T15:30:00+00:00</published><updated>2024-03-03T15:30:00+00:00</updated><id>https://oragothen.github.io//meerhan/2024/03/03/tag1</id><content type="html" xml:base="https://oragothen.github.io//meerhan/2024/03/03/tag1.html"><![CDATA[<p>Hahahaha wer hätte gedacht dass Jetlag so leicht auszutricksen ist. Jakarta liegt in GMT+7, also 6 Stunden vor Deutschland - bedeutet, dass mein Körper eigentlich länger wach bleiben und länger schlafen will. Dadurch dass ich aber auf dem Flug in der Nacht vom 1. auf den 2. nur so 2 Stunden geschlafen habe, war ich entgegen der Gesetze des Jetlags müde und konnte schlafen obwohl ich <a href="/meerhan/assets/img/artemis.png">eigentlich gar nicht durfte</a>.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://oragothen.github.io//meerhan/feed.xml" rel="self" type="application/atom+xml" /><link href="https://oragothen.github.io//meerhan/" rel="alternate" type="text/html" /><updated>2024-03-04T13:06:48+00:00</updated><id>https://oragothen.github.io//meerhan/feed.xml</id><title type="html">Mit Meehan ans Meer ran</title><subtitle>Der einzig wahre Blog über Fische, Freunde, Meer und die weite Welt</subtitle><entry><title type="html">Tag2</title><link href="https://oragothen.github.io//meerhan/2024/03/04/tag2.html" rel="alternate" type="text/html" title="Tag2" /><published>2024-03-04T00:00:00+00:00</published><updated>2024-03-04T00:00:00+00:00</updated><id>https://oragothen.github.io//meerhan/2024/03/04/tag2</id><content type="html" xml:base="https://oragothen.github.io//meerhan/2024/03/04/tag2.html"><![CDATA[<hr />
+<p>layout: post
+title:  “Tag 2”
+date:   2024-03-04 20:00:00 +0700
+imgs:</p>
+<ul>
+  <li>path: assets/img/04/IMG_20240304_160824.jpg
+desc: “Duku, innen”</li>
+  <li>path: assets/img/04/IMG_20240304_160805.jpg
+desc: “Duku, aussen”</li>
+  <li>path: assets/img/04/IMG_20240304_160538.jpg
+desc: “Manggis, innen”</li>
+  <li>path: assets/img/04/IMG_20240304_160444.jpg
+desc: “Manggis, aussen”</li>
+  <li>path: assets/img/04/IMG_20240304_160440.jpg
+desc: “Manggis, aussen”</li>
+  <li>path: assets/img/04/IMG_20240304_134318.jpg
+desc: “Salak, innen”</li>
+  <li>path: assets/img/04/IMG_20240304_134243.jpg
+desc: “Salak, aussen”</li>
+  <li>path: assets/img/04/IMG_20240304_132451.jpg
+desc: “Lunch”</li>
+  <li>path: assets/img/04/IMG_20240304_000726.jpg
+desc: “Foot massager”</li>
+  <li>path: assets/img/04/IMG_20240303_213734.jpg
+desc: “Martabak (Sweet or savory pancakes filled with syrup and cheese)”</li>
+  <li>path: assets/img/04/IMG_20240303_213646.jpg
+desc: “Martabak”
+–</li>
+</ul>
+
+<p>Es existiert die häufig gestellte Frage, was zuerst kommt: das Huhn oder das Ei.
+Bei mir ist die Frage eindeutig: es war definitiv der Hochmut.
+Ich bin mit Kopfschmerzen und leicht erhöhter Temperatur aufgewacht. Es fühlt sich nicht wie Allergie an, aber vielleicht hängt es mit der Kreislaufbelastung von den Dauersaunagängen hier ab (30° und 134% Luftfeuchtigkeit draußen zu weniger als 20° bedingt durch AC in Gebäuden).</p>
+
+<p>Bettruhe, Paracetamol, Bubur und Mi Ayam helfen. 
+Da ich heute nicht ausgehe, ein paar Erlebnisse aus dem Haus; denn auch hier gibt es Sachen, die anders funktionieren, als in Deutschland:</p>
+
+<ul>
+  <li>Ich war zunächst sehr geschockt, als ich herausfand, dass es kein Warmwasser gibt. Da es aber sowieso ziemlich warm ist, und das Kaltwasser hier ist wärmer als das Warmwasser in meiner WG (zumindest bis wir letzte Woche den neuen Boiler bekommen haben)</li>
+  <li>Nach meinem ersten längeren Toilettenbesuch suchte ich verzweifelt im Bad nach Toilettenpapier; aber das einzige, was ich vorfand, war eine Düse am Ende eines Schlauchs. Ich kenne natürlich die Theorie dahinter, war aber bisher nicht mit der Praxis vertraut. Zum Glück lerne ich schnell</li>
+</ul>
+
+<p>Es gibt hier sehr viel cooles Obst, das es in Deutschland nicht oder kaum gibt - siehe auch die Bilder.</p>
+<ul>
+  <li>Salak, oder auch Schlangenfrucht, sehen außen wie ein Regentropfen mit Schlangenhaut, innen wie Knoblauch aus. Jede einzelne der Zehen hat einen eigenen, ungekocht nicht essbaren Kern. Der Geschmack ist schwer zu beschreiben; Wikipedia sagt er erinnere an Birne, Litschi und Jackfrucht und ich werde das zumindest nicht bestreiten</li>
+  <li>Manggis, btw. Mangostane, habe ich glaube ich auch schon mal in Deutschland gesehen. Die äußere Schale ist fest, aber nicht hart, und die Frucht sieht innen aus wie Knoblauch. Die schmeckt mir etwas besser als Salak, mit einem angenehm sauren Geschmack</li>
+  <li>Duku (Früchte des Lansibaums??) ist die letzte Frucht, die ich heute probiert habe. Die erinnert mich geschmacklich stark an Aprikosen, und sieht außen wie eine Kartoffel und innen wie durchsichtiger Knoblauch aus</li>
+  <li>Durian habe ich noch nicht probiert, die steht aber auf meiner To-Do-Liste</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[layout: post title: “Tag 2” date: 2024-03-04 20:00:00 +0700 imgs: path: assets/img/04/IMG_20240304_160824.jpg desc: “Duku, innen” path: assets/img/04/IMG_20240304_160805.jpg desc: “Duku, aussen” path: assets/img/04/IMG_20240304_160538.jpg desc: “Manggis, innen” path: assets/img/04/IMG_20240304_160444.jpg desc: “Manggis, aussen” path: assets/img/04/IMG_20240304_160440.jpg desc: “Manggis, aussen” path: assets/img/04/IMG_20240304_134318.jpg desc: “Salak, innen” path: assets/img/04/IMG_20240304_134243.jpg desc: “Salak, aussen” path: assets/img/04/IMG_20240304_132451.jpg desc: “Lunch” path: assets/img/04/IMG_20240304_000726.jpg desc: “Foot massager” path: assets/img/04/IMG_20240303_213734.jpg desc: “Martabak (Sweet or savory pancakes filled with syrup and cheese)” path: assets/img/04/IMG_20240303_213646.jpg desc: “Martabak” –]]></summary></entry><entry><title type="html">Tag 1</title><link href="https://oragothen.github.io//meerhan/2024/03/03/tag1.html" rel="alternate" type="text/html" title="Tag 1" /><published>2024-03-03T15:30:00+00:00</published><updated>2024-03-03T15:30:00+00:00</updated><id>https://oragothen.github.io//meerhan/2024/03/03/tag1</id><content type="html" xml:base="https://oragothen.github.io//meerhan/2024/03/03/tag1.html"><![CDATA[<p>Hahahaha wer hätte gedacht dass Jetlag so leicht auszutricksen ist. Jakarta liegt in GMT+7, also 6 Stunden vor Deutschland - bedeutet, dass mein Körper eigentlich länger wach bleiben und länger schlafen will. Dadurch dass ich aber auf dem Flug in der Nacht vom 1. auf den 2. nur so 2 Stunden geschlafen habe, war ich entgegen der Gesetze des Jetlags müde und konnte schlafen obwohl ich <a href="/meerhan/assets/img/artemis.png">eigentlich gar nicht durfte</a>.
 Nachdem ich <a href="https://c.tenor.com/Eh4Gt4BAY_EAAAAC/tenor.gif">sanft</a> geweckt wurde.</p>
 
 <p>Danach direkt die erste unangenehme Überraschung. Leute sagen immer “komm nach Indonesien, es gibt Essen” aber ich wusste nicht, dass mit dem Essen ich selbst gemeint bin. Selbst in der Stadt besteht ein unangenehmes Mosquito-Problem. Ist ja auch fair dass wenn ich exotisch esse dass die örtliche Fauna auch exotisch essen möchte. Zum Glück sind die ganzen Tropenkrankheiten nicht in Jakarta sondern in Kalimantan (wo es in ein paar Tagen hingeht 💀).</p>

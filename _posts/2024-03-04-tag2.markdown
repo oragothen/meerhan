@@ -1,11 +1,31 @@
 ---
 layout: post
 title:  "Tag 2"
-date:   2024-03-04 23:00:00 +0700
+date:   2024-03-04 20:00:00 +0700
 imgs: 
-  - path: assets/img/.jpg
-    desc: ""
----
+- path: assets/img/04/IMG_20240304_160824.jpg
+  desc: "Duku, innen"
+- path: assets/img/04/IMG_20240304_160805.jpg
+  desc: "Duku, aussen"
+- path: assets/img/04/IMG_20240304_160538.jpg
+  desc: "Manggis, innen"
+- path: assets/img/04/IMG_20240304_160444.jpg
+  desc: "Manggis, aussen"
+- path: assets/img/04/IMG_20240304_160440.jpg
+  desc: "Manggis, aussen"
+- path: assets/img/04/IMG_20240304_134318.jpg
+  desc: "Salak, innen"
+- path: assets/img/04/IMG_20240304_134243.jpg
+  desc: "Salak, aussen"
+- path: assets/img/04/IMG_20240304_132451.jpg
+  desc: "Lunch"
+- path: assets/img/04/IMG_20240304_000726.jpg
+  desc: "Foot massager"
+- path: assets/img/04/IMG_20240303_213734.jpg
+  desc: "Martabak (Sweet or savory pancakes filled with syrup and cheese)"
+- path: assets/img/04/IMG_20240303_213646.jpg
+  desc: "Martabak"
+--
 
 Es existiert die häufig gestellte Frage, was zuerst kommt: das Huhn oder das Ei.
 Bei mir ist die Frage eindeutig: es war definitiv der Hochmut.

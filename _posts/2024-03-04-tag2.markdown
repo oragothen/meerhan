@@ -25,7 +25,7 @@ imgs:
   desc: "Martabak (Sweet or savory pancakes filled with syrup and cheese)"
 - path: assets/img/04/IMG_20240303_213646.jpg
   desc: "Martabak"
---
+---
 
 Es existiert die häufig gestellte Frage, was zuerst kommt: das Huhn oder das Ei.
 Bei mir ist die Frage eindeutig: es war definitiv der Hochmut.

@@ -22,7 +22,7 @@ imgs:
 - path: assets/img/04/IMG_20240304_000726.jpg
   desc: "Foot massager"
 - path: assets/img/04/IMG_20240303_213734.jpg
-  desc: "Martabak (Sweet or savory pancakes filled with syrup and cheese)"
+  desc: "Martabak (Sweet or savory pancakes filled with chocolate cream, condensed milk, and cheese)"
 - path: assets/img/04/IMG_20240303_213646.jpg
   desc: "Martabak"
 ---
@@ -43,3 +43,4 @@ Es gibt hier sehr viel cooles Obst, das es in Deutschland nicht oder kaum gibt -
 - Duku (Früchte des Lansibaums??) ist die letzte Frucht, die ich heute probiert habe. Die erinnert mich geschmacklich stark an Aprikosen, und sieht außen wie eine Kartoffel und innen wie durchsichtiger Knoblauch aus
 - Durian habe ich noch nicht probiert, die steht aber auf meiner To-Do-Liste
 
+Niklas und Michi streiten sich um den ersten Platz für die Waldo-Suche. Michi hat es zuerst öffentlich gemacht, aber Niklas war insgesamt schneller. Beide gewinnen den Hauptpreis - sie sind in diesem Blog verewigt.

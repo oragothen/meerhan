@@ -12,8 +12,20 @@ layout: default
   <div class="gallery-grid">
     {% for img in page.imgs %}
         <div class="gallery-item">
-        <a href="{{ img.path | relative_url }}" class="gallery-link">
-            <img src="{{ img.path | relative_url }}" alt="{{ img.desc }}" class="grid-item gallery-img">
+        {% for file in site.static_files %}
+            {% if file.path contains img.path %}
+                {% assign found = true %}
+            {% endif %}
+        {% endfor %}
+
+        {% if found %}
+            {% assign path = img.path %}
+        {% else %}            
+            {% assign path = "assets/img/imagenotfound.jpg" %}
+        {% endif %}
+
+        <a href="{{ path | relative_url }}" class="gallery-link">
+            <img src="{{ path | relative_url }}" alt="{{ img.desc }}" class="grid-item gallery-img">
         </a>
         {% capture toggleid %}gallery-img-desc-{{ forloop.index }}{% endcapture %}
         <input type="checkbox" id="{{ toggleid }}" class="gallery-img-desc-toggle">

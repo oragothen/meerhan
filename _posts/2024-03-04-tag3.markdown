@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tag 3"
-date:   2024-03-05 23:00:00 +0800
+date:   2024-03-05 22:30:00 +0800
 imgs: 
 - path: assets/img/05/IMG_20240305_145923.jpg
   desc: "Kalimantan from the air"
@@ -20,6 +20,8 @@ imgs:
 - path: assets/img/05/IMG_20240305_122149.jpg
   desc: "Kopftuch-Automat"
 ---
+
+Die Bilder kann ich heute noch nicht hochladen; das Internet hier ist echt nicht gut. Ich hole es nach, sobald ich irgendwo gutes WLAN finde.
 
 Lily fragte mich gestern Abend, warum sie nicht auf Platz 1 der Waldo Suche war, obwohl sie Waldo als erste gefunden hat. Ich wies sie darauf hin, dass sie Waldo auf dem Bild platzierte, und damit disqualifiziert ist.
 Special mentions an [meine Mutter](/meerhan/assets/img/05/Screenshot_20240305-174908.png) und an [Maxim](/meerhan/assets/img/05/IMG-20240305-WA0017.jpg).
@@ -45,3 +47,4 @@ Den starken Einfluss von Religion (hauptsächlich Islam) kann man auch sehr gut 
 
 Außerdem: der Mond ist einfach schief. Ich hab noch kein gutes Bild davon machen können, ich hole es bei Gelegenheit nach. Ich habe eine wahrhaft wundersame Erklärung hierfür entdeckt, aber dieser Blog ist zu klein, um sie hier rein zu schreiben.
 
+Gegen Abend geht es Lily schlechter, 40° Fieber. Wir fahren ins Krankenhaus, Diagnose: Mandelentzündung. Lily hat Medizin bekommen (keine Antibiotika) und ruht sich jetzt erst mal aus.

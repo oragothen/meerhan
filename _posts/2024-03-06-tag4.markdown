@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Mit Meehan ans Meer ran"
+date:   2024-03-05 22:30:00 +0800
+imgs: 
+- path: assets/img/06/IMG-20240306-WA0024.jpg
+  desc: "Mit Meehan"
+- path: assets/img/06/IMG-20240306-WA0023.jpg
+  desc: "ans Meer ran"
+- path: assets/img/06/IMG-20240306-WA0022.jpg
+  desc: "Nani???"
+- path: assets/img/06/IMG_20240306_160013.jpg
+  desc: "Church"
+- path: assets/img/06/IMG_20240306_160007.jpg
+  desc: "Church"
+- path: assets/img/06/IMG_20240306_130911.jpg
+  desc: "Lunch"
+- path: assets/img/06/IMG_20240306_125230.jpg
+  desc: "An alleyway in Balikpapan"
+- path: assets/img/06/IMG_20240306_125226.jpg
+  desc: "Another alleyway, featuring Balikbapak"
+- path: assets/img/06/IMG_20240306_124237.jpg
+  desc: "When the tröt is verböt"
+- path: assets/img/06/IMG_20240306_123440.jpg
+  desc: "Indonesian central bank"
+- path: assets/img/06/IMG-20240306-WA0038.jpg
+  desc: "Indonesian central bank, featuring Paul"
+- path: assets/img/06/IMG_20240306_122829.jpg
+  desc: "Chickens - Indonesians favorite food"
+- path: assets/img/06/IMG_20240306_122719.jpg
+  desc: "A flower"
+- path: assets/img/06/IMG_20240306_122641.jpg
+  desc: "Monpera, Monument about the struggle of the People of Balikpapan"
+- path: assets/img/06/IMG_20240306_122611.jpg
+  desc: "Flower"
+- path: assets/img/06/IMG_20240306_120514.jpg
+  desc: "Oh the coconut nut"
+- path: assets/img/06/IMG_20240306_120502.jpg
+  desc: "is a giant nut"
+- path: assets/img/06/IMG-20240306-WA0032.jpg
+  desc: "if you eat too much"
+- path: assets/img/06/IMG-20240306-WA0031.jpg
+  desc: "you get very fat"
+- path: assets/img/06/IMG_20240306_100631.jpg
+  desc: "Exotic food"
+- path: assets/img/06/IMG-20240306-WA0037.jpg
+  desc: "Monpera, featuring Paul"
+- path: assets/img/06/IMG-20240306-WA0026.jpg
+  desc: "Paul visiting elementary school"
+- path: assets/img/06/IMG-20240306-WA0021.jpg
+  desc: "Paul and Fifi"
+---
+
+Heute ist der große Tag. Die Titelmusik spielt, der Protagonist erscheint im Sonnenlicht: 
+Meehan kommt ans Meer ran.
+
+Lily geht es viel besser. Sie hat einen Cocktail an fiebersenkenden Mitteln und Kortison bekommen, und ist wieder munter; sie schont sich aber noch und ist heute morgen daheim geblieben. 
+
+Da bin ich mit Bapak (Bapak bedeutet sowohl "Papa", wird aber auch als Anrede so ähnlich wie "Mister" verwendet - sowohl ich als auch Lily nennen ihren Vater so) ein wenig durch die Stadt gelaufen und habe mir Balikpapan angeschaut. Bapak zeigte mir Lilys alte Schule, und fragte mich, ob ich einen Blick hineinwerfen möchte. Bevor ich sagen konnte "Wäre das nicht irgendwie komisch?" winkte uns ein Mann, der am Tor lehnte, herein - ein Freund von Bapak, wie sich später herausstellt. 
+
+Die Aufmerksamkeit, die ich dort von den Kindern bekomme, übersteigt diejenige, die Mosquitos mir widmen (Ich habe heute nachgezählt: mittlerweile habe ich knapp 50 Stiche). Nach längerem Angestarre und Gekichere kommt eine kleine Gruppe an Mädchen und fragt mich in tadellosem Englisch "Mister, do you speak English?" 
+"How old are you?" 
+"Where are you from?"
+Als ich auf die letzte Frage "Jerman" antworte, kommt kurze Zeit später ein kleiner Junge, zeigt mir die Flagge des deutschen Kaiserreiches, und sagt entschieden "Jerman!". Ich nicke einfach.
+"Are you a gamer?"
+"Do you know Roblox?"
+Die Fragewut der Kinder nimmt eher zu als ab, insbesondere nachdem sie merken, dass ich nicht beiße und eigentlich ganz normal bin (obwohl ich nur "sedikit" Indonesisch spreche). Eine Lehrerin kommt vorbei und macht ein Selfie mit mir. Ein paar Kinder wollen auch aufs Foto; sie dürfen auf ein Foto mit drauf, werden aber für das nächste Foto aus dem Bild grad gescheucht. Die Rektorin (soweit ich weiß auch mit Bapak befreunded) kommt vorbei und unterhält sich mit Bapak, während sie uns über das restliche Schulgelände führt. 
+
+Die Schule sieht aus wie eine [Schule](/meerhan/assets/img/school.jpg), wenn auch ähnlich heruntergekommen wie viele Gebäude hier. Putz bröckelt, manche Wände zeigen Risse. Bei Schönheitsmakeln ist man hier sehr pragmatisch. Wenn die Funktion nicht eingeschränkt ist, steckt man seine Arbeit und sein Geld lieber in andere Sachen; denn zu viel Geld haben hier wenige. Manche Dinge sind dementsprechend (von einer europäischen Perspektive aus) unglaublich billig - als größtes Beispiel kann hier Essen genannt werden.
+Andere Dinge, die entweder höhere Materialkosten haben (wie z.B. Schuhe) oder importiert werden (z.B. bestimmte Kosmetika) kosten deutlich mehr, manchmal so viel wie in Deutschland (ich habe vor ein paar Tagen eine Hautcreme der Marke "Bodyshop" gesehen, zu einem Preis von 500.000 IDR (etwa 30€)) - und sind damit außer Reichweite für viele Menschen hier.
+Der Mindestlohn hängt von der Region ab; er bewegt sich aber in der Region von 3 Millionen IDR pro Monat, was in etwa so viel ist, wie man in einer Ausbildung als Schneider in einem kleinen Dorf in Rheinland-Pfalz bekommt.
+Man stelle sich die oben erwähnte Hautcreme auf den deutschen Mindestlohn von etwa 1500€ hochgerechnet vor - etwa 250€ für eine Dose.
+Selbstständiges wie der Bubur-Ayam-Mopedist haben natürlich keine Garantie auf diesen Mindestlohn; manche Leute werden also noch weniger verdienen.
+Wenigstens haben alle Kinder die Möglichkeit zur Schule zu gehen. Seit 1974 besteht in Indonesien die Schulpflicht; staatliche Schulen sind außerdem komplett kostenlos. 
+
+Nach dem Besuch der Grundschule geht es weiter zu Lilys altem Kindergarten. Eine Dame auf dem Hof grüßt uns; sie ist mit Bapak befreundet. Wir werden eingeladen, uns den Kindergarten anzuschauen, und einen Kaffee zu trinken (Bapak trinkt Tee). Ein kleines Mädchen erzählt mir von ihrer Familie, welche sie sehr liebt, und ihren zwei Hunden; einer der Hunde ist groß und immer wütend, der andere ist klein und stinkt, und der Kleine weckt sie immer, was sie nicht mag, weil er stinkt.
+Ihr Englisch ist nicht viel schlechter, als ich es von einer Muttersprachlerin erwarten würde; auf manche Aspekte der Bildung wird hier ein sehr hoher Stellenwert gelegt.
+Der Kindergarten hat außerdem einen Computerraum - ich erinnere mich an meinen allerersten EDV-Unterricht in der sechsten Klasse.
+
+Man hört, wie die Titelmusik (die Musiker sind alle Freunde von Bapak) lauter wird, als wir uns dem Meer nähern; der Antagonist (nicht mit Bapak befreundet) ruft "Nani???" und zerfällt zu Staub, als ich sage ["Mit Meehan ans Meer ran"](https://c.tenor.com/7UarUv_Z1QYAAAAC/tenor.gif).
+
+Der Strand ist warm. So richtig warm. Wir schauen ein bisschen aufs Meer raus und gehen dann wieder, weil es so warm ist. Ein paar Meter weiter ist eine kleine Ansammlung von Kiosks (davon gibt es hier sehr viele). Wir trinken jeder eine Kokosnuss und gehen weiter. Eine Aussichtsplattform übers Meer, ein kleiner Park mit einem Monument, die indonesische Zentralbank, und sehr viele Militärgebäude. 
+
+Nach dem Mittagsschlaf gehen Lily und ich ein wenig durch die Stadt und schauen uns die Kirche an. Ich bemerke, dass mein Arm unangenehm rot ist, trotz LSF 30 Sonnencreme. Wir kaufen LSF 50 Sonnencreme (für 120.000 IDR = 6 Kokosnüsse; ziemlich teuer, weil kein Indonesier LSF 50 Sonnencreme braucht) und einen Klebestift für Lilys Reisetagebuch.

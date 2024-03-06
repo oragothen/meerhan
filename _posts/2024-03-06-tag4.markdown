@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mit Meehan ans Meer ran"
-date:   2024-03-05 22:30:00 +0800
+date:   2024-03-06 21:30:00 +0800
 imgs: 
 - path: assets/img/06/IMG-20240306-WA0024.jpg
   desc: "Mit Meehan"

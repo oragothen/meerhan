@@ -30,7 +30,7 @@ imgs:
 - path: assets/img/06/IMG_20240306_122719.jpg
   desc: "A flower"
 - path: assets/img/06/IMG_20240306_122641.jpg
-  desc: "Monpera, Monument about the struggle of the People of Balikpapan"
+  desc: "Statue of Sudirman, a military general"
 - path: assets/img/06/IMG_20240306_122611.jpg
   desc: "Flower"
 - path: assets/img/06/IMG_20240306_120514.jpg
@@ -44,7 +44,7 @@ imgs:
 - path: assets/img/06/IMG_20240306_100631.jpg
   desc: "Exotic food"
 - path: assets/img/06/IMG-20240306-WA0037.jpg
-  desc: "Monpera, featuring Paul"
+  desc: "Statue of Sudirman, featuring Paul"
 - path: assets/img/06/IMG-20240306-WA0026.jpg
   desc: "Paul visiting elementary school"
 - path: assets/img/06/IMG-20240306-WA0021.jpg
@@ -64,7 +64,7 @@ Die Aufmerksamkeit, die ich dort von den Kindern bekomme, übersteigt diejenige,
 Als ich auf die letzte Frage "Jerman" antworte, kommt kurze Zeit später ein kleiner Junge, zeigt mir die Flagge des deutschen Kaiserreiches, und sagt entschieden "Jerman!". Ich nicke einfach.
 "Are you a gamer?"
 "Do you know Roblox?"
-Die Fragewut der Kinder nimmt eher zu als ab, insbesondere nachdem sie merken, dass ich nicht beiße und eigentlich ganz normal bin (obwohl ich nur "sedikit" Indonesisch spreche). Eine Lehrerin kommt vorbei und macht ein Selfie mit mir. Ein paar Kinder wollen auch aufs Foto; sie dürfen auf ein Foto mit drauf, werden aber für das nächste Foto aus dem Bild grad gescheucht. Die Rektorin (soweit ich weiß auch mit Bapak befreunded) kommt vorbei und unterhält sich mit Bapak, während sie uns über das restliche Schulgelände führt. 
+Die Fragewut der Kinder nimmt eher zu als ab, insbesondere nachdem sie merken, dass ich nicht beiße und eigentlich ganz normal bin (obwohl ich nur "sedikit" Indonesisch spreche). Eine Lehrerin kommt vorbei und macht ein Selfie mit mir. Ein paar Kinder wollen auch aufs Foto; sie dürfen auf ein Foto mit drauf, werden aber für das nächste Foto aus dem Bild raus gescheucht. Die Rektorin (soweit ich weiß auch mit Bapak befreunded) kommt vorbei und unterhält sich mit Bapak, während sie uns über das restliche Schulgelände führt. 
 
 Die Schule sieht aus wie eine [Schule](/meerhan/assets/img/school.jpg), wenn auch ähnlich heruntergekommen wie viele Gebäude hier. Putz bröckelt, manche Wände zeigen Risse. Bei Schönheitsmakeln ist man hier sehr pragmatisch. Wenn die Funktion nicht eingeschränkt ist, steckt man seine Arbeit und sein Geld lieber in andere Sachen; denn zu viel Geld haben hier wenige. Manche Dinge sind dementsprechend (von einer europäischen Perspektive aus) unglaublich billig - als größtes Beispiel kann hier Essen genannt werden.
 Andere Dinge, die entweder höhere Materialkosten haben (wie z.B. Schuhe) oder importiert werden (z.B. bestimmte Kosmetika) kosten deutlich mehr, manchmal so viel wie in Deutschland (ich habe vor ein paar Tagen eine Hautcreme der Marke "Bodyshop" gesehen, zu einem Preis von 500.000 IDR (etwa 30€)) - und sind damit außer Reichweite für viele Menschen hier.

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Tag 5"
+date:   2024-03-07 21:30:00 +0800
+imgs: 
+- path: assets/img/07/IMG_20240307_174920.jpg
+  desc: "Tasty fake Durian"
+- path: assets/img/07/IMG_20240307_190008.jpg
+  desc: "Dinner"
+- path: assets/img/07/IMG-20240307-WA0012.jpg
+  desc: "Rainy view out onto the street"
+- path: assets/img/07/IMG-20240307-WA0013.jpg
+  desc: "Rainy view on Paul enjoying the rainy view out onto the street"
+---
+
+Das Titelfoto ist ein bisschen Clickbait.
+Ibu hat heute zwei Lai-Früchte (Durio kutejensis) gekauft. Die gehören zum gleichen Genus wie die bekanntere Durian (Durio zibethinus), soll aber weniger der schlechten Aromen haben. Die Früchte sind noch nicht reif, in ein paar Tagen können wir sie essen.
+
+Gestern Abend hatte ich 38.5° Fieber, was sich bis heute morgen durchgezogen hat. Gekoppelt mit der Tatsache, dass ich mich seit Montag nicht gut fühle, sind wir also heute ins Krankenhaus. Ein Freund von Bapak hat uns abgeholt und hin gefahren.
+
+Jetzt weiß ich endlich, wie es sich anfühlt, Privatpatient zu sein. Der Arzt schlägt mehrere Bluttests vor, um herauszufinden ob ich Antibiotika brauche, und ob Dengue-Fieber vorliegt. Alle Tests kommen negativ zurück, meine Blutwerte sind normal - also bekomme ich lediglich Medikamente, um die Symptome zu behandeln; außerdem eine Packung Vitamine. Ich zahle schließlich selbst, da wird alles verschrieben.
+
+Danach der unangenehme Teil - die Bezahlung. Ich bin natürlich reisekrankenversichert, muss aber alle Kosten selbst auslegen.
+Als ich die Rechnung sehe, bin ich überrascht. 1,4 Millionen Rupiah. Umgerechnet ungefähr 80 Euro. Davon in etwa 18€ für den Arzt, 50€ für die Bluttests, und der Rest auf Medikamente, Steuern, und das Durchführen des Bluttests (und die Kosten der Spritze) verteilt.
+
+Den Rest des Tages ruhe ich mich aus. Ich schlafe ein bisschen, liege rum und schaue YouTube, und lese Artikel über den [neuen europäischen DMA](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes) und freue mich darüber. 
+
+
+Mittlerweile geht es mir auch wieder besser; ich werde morgen trotzdem weiter ein bisschen chillaxen.

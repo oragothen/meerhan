@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tag 5"
+title:  "Tag 6"
 date:   2024-03-08 21:30:00 +0800
 imgs: 
 - path: assets/img/08/IMG-20240308-WA0019.jpg
@@ -28,7 +28,7 @@ Nachdem die letzten Tage vor allem die Superkraft von Lilys Vater im Vordergrund
 
 "Was kostet das hier?"   
 "150" (gemeint ist 150.000)   
-"75"
+"75"  
 "wie wäre es mit 140?"  
 "80"  
 "Nein, das ist viel zu billig, 130?"  

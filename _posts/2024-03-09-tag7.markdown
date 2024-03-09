@@ -4,7 +4,7 @@ title:  "Tag 7"
 date:   2024-03-09 21:45:00 +0800
 imgs: 
 - path: assets/img/09/IMG_20240309_194438.jpg
-  desc: "Yes, yes I am"
+  desc: "Yes, yes it is"
 - path: assets/img/09/IMG_20240309_200457.jpg
   desc: "Dinner"
 - path: assets/img/09/IMG_20240309_185027.jpg

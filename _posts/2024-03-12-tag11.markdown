@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Noch eine Filler-Folge"
+date:   2024-03-12 21:30:00 +0800
+imgs: 
+- path: assets/img/13/IMG_20240313_111532.jpg
+  desc: "Tasty Coffee"
+- path: assets/img/13/IMG_20240313_113023.jpg
+  desc: "Trötverböt"
+- path: assets/img/13/IMG_20240313_105118.jpg
+  desc: "This guy randomly appeared today. Yes, it's actually pretty massive"
+- path: assets/img/13/IMG_20240313_105036.jpg
+  desc: "Big scary bird, part 2"
+- path: assets/img/13/IMG_20240312_174742.jpg
+  desc: "Warung"
+- path: assets/img/13/IMG_20240312_130051.jpg
+  desc: "Warung"
+- path: assets/img/13/IMG_20240312_125943.jpg
+  desc: "Warung"
+- path: assets/img/13/IMG_20240312_125850.jpg
+  desc: "Warung"
+- path: assets/img/13/IMG_20240312_125734.jpg
+  desc: "Warung"
+- path: assets/img/13/IMG_20240312_100432.jpg
+  desc: "Warung near the mangrove area. 'Uncle Alex' sells prawns used for fishing"
+
+---
+
+Heute ist, wie angekündigt, nicht so viel passiert. Heute früh waren wir in einem Cafe (wir mussten eine Weile suchen, wegen Ramadan haben tagsüber nicht so viele Geschäfte offen). Ich habe einen ziemlich leckeren Javanesischen Kaffee getrunken (ja, so richtig mit V60 zubereitet) - dafür, dass Indonesien ein Land ist, in dem Kaffee angepflanzt wird, habe ich bisher erstaunlich wenig Specialty Kaffee hier getrunken.
+Heute Abend waren wir dann bei Freunden zum Abendessen eingeladen. 
+
+Deshalb nutze ich die Gelegenheit und erzähle von ein paar indonesischen Dingen, die in den letzten Posts keinen Platz gefunden haben, aber irgendwie trotzdem zu Indonesien gehören. Meine Anwälte weisen mich darauf hin, dass ich explizit erwähnen soll, dass ich von meinem Verleger keine finanzielle Gegenleistung für längere Texte erhalte und er ein toller Mensch ist. 
+
+Als Erstes möchte ich über das Konzept des "Warung" reden. Warung bedeutet einfach nur "Laden" bzw "Stand", und ist eine von den Sachen, die ich hier wohl am häufigsten gesehen habe. Die gesamte Straße, fast überall, ist gesäumt von Warungs (man achte auf den deutschen Plural, der darauf hinweist, dass ich Warung als eigenes Konzept akzeptiere).
+Was verkaufen Warungs? Alles. Jeder kann einen Warung eröffnen; das einzige, was man braucht, ist ein kleiner Tisch, ein paar Quadratmeter, wo man den Tisch aufbauen kann, und ein Produkt, und insbesondere keine Gaststättenerlaubnis, [Baugenehmigung](https://www.heidelberg24.de/heidelberg/drohung-abriss-food-truck-sparerips-hakims-imbiss-steakhaus-rohrbach-zwangsgeld-stadt-rueckbau-92515208.html), oder ähnliches. 
+Ich habe Warungs gesehen, die Bananen, Obst, Gemüse verkaufen, frisches Essen, gekochtes Essen. Eistee, Kaffee, andere Getränke. Durians und nichts anderes. Bubur, gebratener Reis, Grillhähnchen. Stoff, Kleidung, Schuhe. Motorradhelme. Motorradreparaturen. 
+Wenn es etwas gibt, das Leute kaufen wollen, gibt es vermutlich einen Warung, der es verkauft, vermutlich in der nächsten Seitenstraße. 
+Weil heute kaum was passiert ist, habe ich ein paar Fotos von Warungs hinzugefügt. 
+
+Der nächste Punkt, über den ich reden möchte, ist Plastik. Die Umweltschutzbewegung ist hier noch nicht so ganz angekommen. Plastik, insbesondere zur Verpackung, ist ein Konsumgut. Wenn man irgendwo etwas kauft, bekommt man meist ohne zu fragen eine Plastiktüte (Anmerkung der Lily: in Jakarta und in größeren Kaufhäusern sind die Tüten nicht automatisch dabei und kosten extra), man kann Wasser in Joghurtbecher-ähnlichen Verpackungen kaufen, es gibt nicht diese coolen Papierstrohhalme, die nach 2 Sekunden einweichen und unbrauchbar werden, sondern funktionsfähige aus Plastik - natürlich einzeln verpackt. 
+Das ist natürlich bei Betrachtung der demographischen Situation hier auch verständlich - wenige Dinge sind so billig in der Herstellung, wie Einwegplastik. 
+Was aber viel schlimmer ist, ist der Umgang mit dem Müll. In der Stadt, am Strand, im Wald - überall sieht man Müllhaufen liegen. 
+Und das bei einer Natur, die so schön ist, wie hier - ich finde das echt schade. 

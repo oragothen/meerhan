@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Der Tag vor der Reise"
+date:   2024-03-14 21:30:00 +0700
+imgs: 
+- path: assets/img/IMG-20240311-WA0051.jpg
+  desc: ""
+
+---
+
+Ich habe noch ein oder zwei Dinge über die ich reden möchte, aber ich bin wieder ein wenig erkältet und mein Kopf ist müde. 
+
+Heute ist aber auch nichts spannendes passiert. 

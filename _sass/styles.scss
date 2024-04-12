@@ -184,7 +184,7 @@ div.p-post-thumb {
   float: left;
   padding: 8px 16px;
   text-decoration: none;
-  border: 1px solid #ddd;
+  border: 1px solid black;
 }
 
 .pagination span {
@@ -192,17 +192,17 @@ div.p-post-thumb {
   float: left;
   padding: 8px 16px;
   text-decoration: none;
-  border: 1px solid #ddd;
+  border: 1px solid black;
 }
 
 .pagination a.active {
-  background-color: #4CAF50;
-  color: white;
-  border: 1px solid #4CAF50;
+  background-color: $primary;
+  color: $tertiary;
+  border: 1px solid $primary;
 }
 
 .pagination a:hover:not(.active) {
-  background-color: #ddd;
+  background-color: $tertiary;
 }
 
 .pagination a:first-child {

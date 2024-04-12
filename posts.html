@@ -1,0 +1,22 @@
+---
+layout: default
+title: Paul's Blog
+pagination:
+  enabled: true
+  offset: 6
+  permalink: "/posts:num/"
+  collection: posts
+  indexpage: "/posts"
+---
+
+<div class="grid-container">
+
+    {% for post in paginator.posts %}
+      <div class="grid-item">
+        {% include preview.html %}
+      </div>
+    {% endfor %}
+  
+</div>
+
+{% include pagination.html %}

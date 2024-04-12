@@ -3,21 +3,21 @@ layout: post
 title:  "Tag 6"
 date:   2024-03-08 21:30:00 +0800
 imgs: 
-- path: assets/img/08/IMG-20240308-WA0019.jpg
+- path: assets/img/08/IMG-20240308-WA0019.webp
   desc: "Honeybear, the mascot of Balikpapan "
-- path: assets/img/08/IMG-20240308-WA0018.jpg
+- path: assets/img/08/IMG-20240308-WA0018.webp
   desc: "Angkot route plan"
-- path: assets/img/08/IMG_20240308_202905.jpg
+- path: assets/img/08/IMG_20240308_202905.webp
   desc: "El Mosquo bites"
-- path: assets/img/08/IMG_20240308_161045.jpg
+- path: assets/img/08/IMG_20240308_161045.webp
   desc: "Lai, opened"
-- path: assets/img/08/IMG_20240308_161020.jpg
+- path: assets/img/08/IMG_20240308_161020.webp
   desc: "Lai, closed"
-- path: assets/img/08/IMG_20240308_095855.jpg
+- path: assets/img/08/IMG_20240308_095855.webp
   desc: "Paul and Ibu, in the angkot"
-- path: assets/img/08/IMG_20240308_095824.jpg
+- path: assets/img/08/IMG_20240308_095824.webp
   desc: "Paul and Lily, in the angkot"
-- path: assets/img/08/IMG_20240308_095813.jpg
+- path: assets/img/08/IMG_20240308_095813.webp
   desc: "Inside of an angkot"
 ---
 
@@ -54,4 +54,4 @@ Definitiv empfehlenswert, auch wenn mehr als eine halbe Frucht auf einmal für m
 Abends geht es nochmal in den Mall. Wir gehen vorher Mie Ayam essen, im Lieblingsrestaurant der Djamis.
 Ich kaufe mir eine etwas leichtere Hose (Jeans sind hier wirklich nicht optimal), und einen Regenschirm.
 
-Meine Stiche spüre ich kaum mehr; sie sind sehr weiterhin außerordentlich gut sichtbar. Die Moskitos hier sind definitiv [anders gebaut ](/meerhan/assets/img/Mosco.png).
+Meine Stiche spüre ich kaum mehr; sie sind sehr weiterhin außerordentlich gut sichtbar. Die Moskitos hier sind definitiv [anders gebaut ](/meerhan/assets/img/Mosco.webp).

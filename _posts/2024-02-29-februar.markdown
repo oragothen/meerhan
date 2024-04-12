@@ -3,7 +3,7 @@ layout: post
 title:  "29. Februar"
 date:   2024-02-29 12:30:00 +0100
 imgs: 
-  - path: assets/img/pedro_bed.jpg
+  - path: assets/img/pedro_bed.webp
     desc: "Image of a sneaky cat under Paul's bed"
 ---
 

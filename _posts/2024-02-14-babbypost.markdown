@@ -3,7 +3,7 @@ layout: post
 title:  "Babbys first Blogpost"
 date:   2024-02-14 12:45:00 +0100
 imgs: 
-  - path: assets/img/test1.jpg
+  - path: assets/img/test1.webp
     desc: "Image of Paul with a frog on his head"
 ---
 Das Ganze hier ergab sich aus dem Gedanken, meine bloghungrigen Mitmenschen aus ihrem Mangel geistiger Stimulation zu sättigen. 

@@ -3,13 +3,13 @@ layout: post
 title:  "Die Abfahrt"
 date:   2024-03-01 18:30:00 +0100
 imgs: 
-  - path: assets/img/chaos_frog.jpg
+  - path: assets/img/chaos_frog.webp
     desc: "Paul and Kodok being chaotic"
-  - path: assets/img/train_to_ffm.jpg
+  - path: assets/img/train_to_ffm.webp
     desc: "Paul and Lily being slightly less chaotic"
-  - path: assets/img/wild_pedro.jpg
+  - path: assets/img/wild_pedro.webp
     desc: "A wild Pedro appeared!"
-  - path: assets/img/maus.jpg
+  - path: assets/img/maus.webp
     desc: "Lach- und Sachgeschichten"
 ---
 
@@ -23,7 +23,7 @@ Natürlich dann viel zu früh am Flughafen - aber das ist ja auch der Grundsatz 
 
 Mittlerweile geht es mir auch wieder besser; die alte Erkältung, in ihrer Schwäche, zog sich in rauhe Berge zurück.
 
-Der Check-in ist ein bisschen <a href="https://i.kym-cdn.com/photos/images/original/001/406/212/f9f.png">wack</a> - ich habe Online einen Sitzplatz für den ersten Flug bekommen, nicht jedoch für den zweiten nach dem Umstieg in Abu Dhabi; und auch die Dame am physischen Check-In (physisches Check-In??? In MEINEM 2024????) konnte mir auch keinen Sitzplatz geben. Mit etwas Glück kann ich in Abu-Dhabi einen ergattern - ansonsten wird das vermutlich der <a href="https://oragothen.github.io/meerhan/assets/img/ice_lol.jpg">teuerste</a> Stehplatz den ich je hatte.
+Der Check-in ist ein bisschen <a href="https://i.kym-cdn.com/photos/images/original/001/406/212/f9f.webp">wack</a> - ich habe Online einen Sitzplatz für den ersten Flug bekommen, nicht jedoch für den zweiten nach dem Umstieg in Abu Dhabi; und auch die Dame am physischen Check-In (physisches Check-In??? In MEINEM 2024????) konnte mir auch keinen Sitzplatz geben. Mit etwas Glück kann ich in Abu-Dhabi einen ergattern - ansonsten wird das vermutlich der <a href="https://oragothen.github.io/meerhan/assets/img/ice_lol.webp">teuerste</a> Stehplatz den ich je hatte.
 
 Abendessen, Passkontrolle und Security folgen ohne erwähnenswerte Zwischenfälle - ich habe Lily durch die Passkontrolle zweiter Klasse begleitet (auch bekannt als "Für nicht-EU Bürger").
 

@@ -3,85 +3,85 @@ layout: post
 title:  "Sonnenbär, Regenwald und noch viel Meer"
 date:   2024-03-11 21:10:00 +0800
 imgs: 
-- path: assets/img/11/IMG-20240311-WA0049.jpg
+- path: assets/img/11/IMG-20240311-WA0049.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_171457.jpg
+- path: assets/img/11/IMG_20240310_171457.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_143818.jpg
+- path: assets/img/11/IMG_20240310_143818.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_143702.jpg
+- path: assets/img/11/IMG_20240310_143702.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_140635.jpg
+- path: assets/img/11/IMG_20240310_140635.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_135923.jpg
+- path: assets/img/11/IMG_20240310_135923.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_135522.jpg
+- path: assets/img/11/IMG_20240310_135522.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_133556.jpg
+- path: assets/img/11/IMG_20240310_133556.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_133513.jpg
+- path: assets/img/11/IMG_20240310_133513.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_133448.jpg
+- path: assets/img/11/IMG_20240310_133448.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_133238.jpg
+- path: assets/img/11/IMG_20240310_133238.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_133134.jpg
+- path: assets/img/11/IMG_20240310_133134.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_133124.jpg
+- path: assets/img/11/IMG_20240310_133124.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_131903.jpg
+- path: assets/img/11/IMG_20240310_131903.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_130910.jpg
+- path: assets/img/11/IMG_20240310_130910.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_114452.jpg
+- path: assets/img/11/IMG_20240310_114452.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_114309.jpg
+- path: assets/img/11/IMG_20240310_114309.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_113625.jpg
+- path: assets/img/11/IMG_20240310_113625.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_112349.jpg
+- path: assets/img/11/IMG_20240310_112349.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_112343.jpg
+- path: assets/img/11/IMG_20240310_112343.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_110229.jpg
+- path: assets/img/11/IMG_20240310_110229.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_110001.jpg
+- path: assets/img/11/IMG_20240310_110001.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_105941.jpg
+- path: assets/img/11/IMG_20240310_105941.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_105741.jpg
+- path: assets/img/11/IMG_20240310_105741.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_105716.jpg
+- path: assets/img/11/IMG_20240310_105716.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_105630.jpg
+- path: assets/img/11/IMG_20240310_105630.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_105259.jpg
+- path: assets/img/11/IMG_20240310_105259.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_103924.jpg
+- path: assets/img/11/IMG_20240310_103924.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_103305.jpg
+- path: assets/img/11/IMG_20240310_103305.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_103249.jpg
+- path: assets/img/11/IMG_20240310_103249.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_102326.jpg
+- path: assets/img/11/IMG_20240310_102326.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_102259.jpg
+- path: assets/img/11/IMG_20240310_102259.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_102152.jpg
+- path: assets/img/11/IMG_20240310_102152.webp
   desc: ""
-- path: assets/img/11/IMG_20240310_102133.jpg
+- path: assets/img/11/IMG_20240310_102133.webp
   desc: ""
-- path: assets/img/11/IMG-20240311-WA0043.jpg
+- path: assets/img/11/IMG-20240311-WA0043.webp
   desc: ""
-- path: assets/img/11/IMG-20240311-WA0042.jpg
+- path: assets/img/11/IMG-20240311-WA0042.webp
   desc: ""
-- path: assets/img/11/IMG-20240311-WA0041.jpg
+- path: assets/img/11/IMG-20240311-WA0041.webp
   desc: ""
-- path: assets/img/11/IMG-20240311-WA0040.jpg
+- path: assets/img/11/IMG-20240311-WA0040.webp
   desc: ""
-- path: assets/img/11/IMG-20240311-WA0039.jpg
+- path: assets/img/11/IMG-20240311-WA0039.webp
   desc: ""
-- path: assets/img/11/IMG-20240311-WA0038.jpg
+- path: assets/img/11/IMG-20240311-WA0038.webp
   desc: ""
 ---
 

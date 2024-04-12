@@ -3,27 +3,27 @@ layout: post
 title:  "Tag 2"
 date:   2024-03-04 20:00:00 +0700
 imgs: 
-- path: assets/img/04/IMG_20240304_160824.jpg
+- path: assets/img/04/IMG_20240304_160824.webp
   desc: "Duku, innen"
-- path: assets/img/04/IMG_20240304_160805.jpg
+- path: assets/img/04/IMG_20240304_160805.webp
   desc: "Duku, aussen"
-- path: assets/img/04/IMG_20240304_160538.jpg
+- path: assets/img/04/IMG_20240304_160538.webp
   desc: "Manggis, innen"
-- path: assets/img/04/IMG_20240304_160444.jpg
+- path: assets/img/04/IMG_20240304_160444.webp
   desc: "Manggis, aussen"
-- path: assets/img/04/IMG_20240304_160440.jpg
+- path: assets/img/04/IMG_20240304_160440.webp
   desc: "Manggis, aussen"
-- path: assets/img/04/IMG_20240304_134318.jpg
+- path: assets/img/04/IMG_20240304_134318.webp
   desc: "Salak, innen"
-- path: assets/img/04/IMG_20240304_134243.jpg
+- path: assets/img/04/IMG_20240304_134243.webp
   desc: "Salak, aussen"
-- path: assets/img/04/IMG_20240304_132451.jpg
+- path: assets/img/04/IMG_20240304_132451.webp
   desc: "Lunch"
-- path: assets/img/04/IMG_20240304_000726.jpg
+- path: assets/img/04/IMG_20240304_000726.webp
   desc: "Foot massager"
-- path: assets/img/04/IMG_20240303_213734.jpg
+- path: assets/img/04/IMG_20240303_213734.webp
   desc: "Martabak (Sweet or savory pancakes filled with chocolate cream, condensed milk, and cheese)"
-- path: assets/img/04/IMG_20240303_213646.jpg
+- path: assets/img/04/IMG_20240303_213646.webp
   desc: "Martabak"
 ---
 

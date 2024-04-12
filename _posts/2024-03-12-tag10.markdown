@@ -3,51 +3,51 @@ layout: post
 title:  "Mangrovenkrokodile"
 date:   2024-03-12 21:05:00 +0800
 imgs: 
-- path: assets/img/12/IMG_20240312_115318.jpg
+- path: assets/img/12/IMG_20240312_115318.webp
   desc: ""
-- path: assets/img/12/IMG-20240312-WA0005.jpg
+- path: assets/img/12/IMG-20240312-WA0005.webp
   desc: ""
-- path: assets/img/12/IMG-20240312-WA0004.jpg
+- path: assets/img/12/IMG-20240312-WA0004.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_152820.jpg
+- path: assets/img/12/IMG_20240312_152820.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_152417.jpg
+- path: assets/img/12/IMG_20240312_152417.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_152057.jpg
+- path: assets/img/12/IMG_20240312_152057.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_151629.jpg
+- path: assets/img/12/IMG_20240312_151629.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_150902.jpg
+- path: assets/img/12/IMG_20240312_150902.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_150856.jpg
+- path: assets/img/12/IMG_20240312_150856.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_150722.jpg
+- path: assets/img/12/IMG_20240312_150722.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_150717.jpg
+- path: assets/img/12/IMG_20240312_150717.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_150703.jpg
+- path: assets/img/12/IMG_20240312_150703.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_122421.jpg
+- path: assets/img/12/IMG_20240312_122421.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_121152.jpg
+- path: assets/img/12/IMG_20240312_121152.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_121149.jpg
+- path: assets/img/12/IMG_20240312_121149.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_115326.jpg
+- path: assets/img/12/IMG_20240312_115326.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_113955.jpg
+- path: assets/img/12/IMG_20240312_113955.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_112742.jpg
+- path: assets/img/12/IMG_20240312_112742.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_104004.jpg
+- path: assets/img/12/IMG_20240312_104004.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_101957.jpg
+- path: assets/img/12/IMG_20240312_101957.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_101717.jpg
+- path: assets/img/12/IMG_20240312_101717.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_101350.jpg
+- path: assets/img/12/IMG_20240312_101350.webp
   desc: ""
-- path: assets/img/12/IMG_20240312_101343.jpg
+- path: assets/img/12/IMG_20240312_101343.webp
   desc: ""
 --- 
 

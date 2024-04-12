@@ -10,7 +10,7 @@
     {% if found %}
         {% assign path = post.imgs[0].path %}
     {% else %}            
-        {% assign path = "assets/img/imagenotfound.jpg" %}
+        {% assign path = "assets/img/imagenotfound.webp" %}
     {% endif %}
     <img src="{{ path | relative_url }}" class="p-post-thumb" alt="{{ post.title }}">
 {% endif %}

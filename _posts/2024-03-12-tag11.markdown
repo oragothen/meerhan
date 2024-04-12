@@ -3,25 +3,25 @@ layout: post
 title: "Noch eine Filler-Folge"
 date:   2024-03-12 21:30:00 +0800
 imgs: 
-- path: assets/img/13/IMG_20240313_111532.jpg
+- path: assets/img/13/IMG_20240313_111532.webp
   desc: "Tasty Coffee"
-- path: assets/img/13/IMG_20240313_113023.jpg
+- path: assets/img/13/IMG_20240313_113023.webp
   desc: "Trötverböt"
-- path: assets/img/13/IMG_20240313_105118.jpg
+- path: assets/img/13/IMG_20240313_105118.webp
   desc: "This guy randomly appeared today. Yes, it's actually pretty massive"
-- path: assets/img/13/IMG_20240313_105036.jpg
+- path: assets/img/13/IMG_20240313_105036.webp
   desc: "Big scary bird, part 2"
-- path: assets/img/13/IMG_20240312_174742.jpg
+- path: assets/img/13/IMG_20240312_174742.webp
   desc: "Warung"
-- path: assets/img/13/IMG_20240312_130051.jpg
+- path: assets/img/13/IMG_20240312_130051.webp
   desc: "Warung"
-- path: assets/img/13/IMG_20240312_125943.jpg
+- path: assets/img/13/IMG_20240312_125943.webp
   desc: "Warung"
-- path: assets/img/13/IMG_20240312_125850.jpg
+- path: assets/img/13/IMG_20240312_125850.webp
   desc: "Warung"
-- path: assets/img/13/IMG_20240312_125734.jpg
+- path: assets/img/13/IMG_20240312_125734.webp
   desc: "Warung"
-- path: assets/img/13/IMG_20240312_100432.jpg
+- path: assets/img/13/IMG_20240312_100432.webp
   desc: "Warung near the mangrove area. 'Uncle Alex' sells prawns used for fishing"
 
 ---

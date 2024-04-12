@@ -3,28 +3,28 @@ layout: post
 title:  "Tag 3"
 date:   2024-03-05 22:30:00 +0800
 imgs: 
-- path: assets/img/05/IMG_20240305_145923.jpg
+- path: assets/img/05/IMG_20240305_145923.webp
   desc: "Kalimantan from the air"
-- path: assets/img/05/IMG_20240305_145407.jpg
+- path: assets/img/05/IMG_20240305_145407.webp
   desc: "Kalimantan from the air"
-- path: assets/img/05/IMG_20240305_144305.jpg
+- path: assets/img/05/IMG_20240305_144305.webp
   desc: "Kalimantan from the air"
-- path: assets/img/05/IMG_20240305_133617.jpg
+- path: assets/img/05/IMG_20240305_133617.webp
   desc: "More islands???"
-- path: assets/img/05/IMG_20240305_133241.jpg
+- path: assets/img/05/IMG_20240305_133241.webp
   desc: "Some island idk"
-- path: assets/img/05/IMG_20240305_132711.jpg
+- path: assets/img/05/IMG_20240305_132711.webp
   desc: "Jakarta from the air"
-- path: assets/img/05/IMG_20240305_124016.jpg
+- path: assets/img/05/IMG_20240305_124016.webp
   desc: "Lily and Paul"
-- path: assets/img/05/IMG_20240305_122149.jpg
+- path: assets/img/05/IMG_20240305_122149.webp
   desc: "Kopftuch-Automat"
 ---
 
 Die Bilder kann ich heute noch nicht hochladen; das Internet hier ist echt nicht gut. Ich hole es nach, sobald ich irgendwo gutes WLAN finde.
 
 Lily fragte mich gestern Abend, warum sie nicht auf Platz 1 der Waldo Suche war, obwohl sie Waldo als erste gefunden hat. Ich wies sie darauf hin, dass sie Waldo auf dem Bild platzierte, und damit disqualifiziert ist.
-Special mentions an [meine Mutter](/meerhan/assets/img/05/Screenshot_20240305-174908.png) und an [Maxim](/meerhan/assets/img/05/IMG-20240305-WA0017.jpg).
+Special mentions an [meine Mutter](/meerhan/assets/img/05/Screenshot_20240305-174908.webp) und an [Maxim](/meerhan/assets/img/05/IMG-20240305-WA0017.webp).
 
 Ich habe heute zum ersten Mal aus der Nähe das indonesische Äquivalent des Ice-Cream-Trucks gesehen: Das Bubur Ayam Moped (Reisbrei mit Hähnchen). Mit einer Balance, die jedes Online-Game übertrifft, hat der Fahrer mehrere Töpfe und sich selbst irgendwie an dem Fahrzeug befestigt und fährt, eine Klingel schwenkend, durch die Nachbarschaften.
 

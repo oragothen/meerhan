@@ -3,13 +3,13 @@ layout: post
 title:  "Tag 5"
 date:   2024-03-07 21:30:00 +0800
 imgs: 
-- path: assets/img/07/IMG_20240307_174920.jpg
+- path: assets/img/07/IMG_20240307_174920.webp
   desc: "Tasty fake Durian"
-- path: assets/img/07/IMG_20240307_190008.jpg
+- path: assets/img/07/IMG_20240307_190008.webp
   desc: "Dinner"
-- path: assets/img/07/IMG-20240307-WA0012.jpg
+- path: assets/img/07/IMG-20240307-WA0012.webp
   desc: "Rainy view out onto the street"
-- path: assets/img/07/IMG-20240307-WA0013.jpg
+- path: assets/img/07/IMG-20240307-WA0013.webp
   desc: "Rainy view on Paul enjoying the rainy view out onto the street"
 ---
 

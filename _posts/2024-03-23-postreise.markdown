@@ -3,7 +3,7 @@ layout: post
 title: "Der Tag nach dem Tag eine Woche nach der Rückreise"
 date:   2024-03-23 23:00:00 +0100
 imgs: 
-- path: assets/img/IMG_20240315_152055.jpg
+- path: assets/img/IMG_20240315_152055.webp
   desc: "Some sign at the airport I found"
 
 ---

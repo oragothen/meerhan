@@ -3,27 +3,27 @@ layout: post
 title:  "Tag 7"
 date:   2024-03-09 21:45:00 +0800
 imgs: 
-- path: assets/img/09/IMG_20240309_194438.jpg
+- path: assets/img/09/IMG_20240309_194438.webp
   desc: "Yes, yes it is"
-- path: assets/img/09/IMG_20240309_200457.jpg
+- path: assets/img/09/IMG_20240309_200457.webp
   desc: "Dinner"
-- path: assets/img/09/IMG_20240309_185027.jpg
+- path: assets/img/09/IMG_20240309_185027.webp
   desc: "Church, inside"
-- path: assets/img/09/IMG_20240309_165737.jpg
+- path: assets/img/09/IMG_20240309_165737.webp
   desc: "That which holds an image of an angel becomes itself an angel"
-- path: assets/img/09/IMG_20240309_114657.jpg
+- path: assets/img/09/IMG_20240309_114657.webp
   desc: "Flower"
-- path: assets/img/09/IMG_20240309_114209.jpg
+- path: assets/img/09/IMG_20240309_114209.webp
   desc: "This shield design is typical for Balikpapan"
-- path: assets/img/09/IMG_20240309_105709.jpg
+- path: assets/img/09/IMG_20240309_105709.webp
   desc: "Es Kopi"
-- path: assets/img/09/IMG_20240309_103816.jpg
+- path: assets/img/09/IMG_20240309_103816.webp
   desc: "Mülltrennung ❤️ "
-- path: assets/img/09/IMG-20240309-WA0007.jpg
+- path: assets/img/09/IMG-20240309-WA0007.webp
   desc: "Before dinner, next to the sea"
-- path: assets/img/09/IMG-20240309-WA0004.jpg
+- path: assets/img/09/IMG-20240309-WA0004.webp
   desc: "2 physicists walk into a church"
-- path: assets/img/09/IMG-20240309-WA0003.jpg
+- path: assets/img/09/IMG-20240309-WA0003.webp
   desc: "Blue Batikshirt team"
 ---
 

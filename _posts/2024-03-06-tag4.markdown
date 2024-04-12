@@ -3,51 +3,51 @@ layout: post
 title:  "Mit Meehan ans Meer ran"
 date:   2024-03-06 21:30:00 +0800
 imgs: 
-- path: assets/img/06/IMG-20240306-WA0024.jpg
+- path: assets/img/06/IMG-20240306-WA0024.webp
   desc: "Mit Meehan"
-- path: assets/img/06/IMG-20240306-WA0023.jpg
+- path: assets/img/06/IMG-20240306-WA0023.webp
   desc: "ans Meer ran"
-- path: assets/img/06/IMG-20240306-WA0022.jpg
+- path: assets/img/06/IMG-20240306-WA0022.webp
   desc: "Nani???"
-- path: assets/img/06/IMG_20240306_160013.jpg
+- path: assets/img/06/IMG_20240306_160013.webp
   desc: "Church"
-- path: assets/img/06/IMG_20240306_160007.jpg
+- path: assets/img/06/IMG_20240306_160007.webp
   desc: "Church"
-- path: assets/img/06/IMG_20240306_130911.jpg
+- path: assets/img/06/IMG_20240306_130911.webp
   desc: "Lunch"
-- path: assets/img/06/IMG_20240306_125230.jpg
+- path: assets/img/06/IMG_20240306_125230.webp
   desc: "An alleyway in Balikpapan"
-- path: assets/img/06/IMG_20240306_125226.jpg
+- path: assets/img/06/IMG_20240306_125226.webp
   desc: "Another alleyway, featuring Balikbapak"
-- path: assets/img/06/IMG_20240306_124237.jpg
+- path: assets/img/06/IMG_20240306_124237.webp
   desc: "When the tröt is verböt"
-- path: assets/img/06/IMG_20240306_123440.jpg
+- path: assets/img/06/IMG_20240306_123440.webp
   desc: "Indonesian central bank"
-- path: assets/img/06/IMG-20240306-WA0038.jpg
+- path: assets/img/06/IMG-20240306-WA0038.webp
   desc: "Indonesian central bank, featuring Paul"
-- path: assets/img/06/IMG_20240306_122829.jpg
+- path: assets/img/06/IMG_20240306_122829.webp
   desc: "Chickens - Indonesians favorite food"
-- path: assets/img/06/IMG_20240306_122719.jpg
+- path: assets/img/06/IMG_20240306_122719.webp
   desc: "A flower"
-- path: assets/img/06/IMG_20240306_122641.jpg
+- path: assets/img/06/IMG_20240306_122641.webp
   desc: "Statue of Sudirman, a military general"
-- path: assets/img/06/IMG_20240306_122611.jpg
+- path: assets/img/06/IMG_20240306_122611.webp
   desc: "Flower"
-- path: assets/img/06/IMG_20240306_120514.jpg
+- path: assets/img/06/IMG_20240306_120514.webp
   desc: "Oh the coconut nut"
-- path: assets/img/06/IMG_20240306_120502.jpg
+- path: assets/img/06/IMG_20240306_120502.webp
   desc: "is a giant nut"
-- path: assets/img/06/IMG-20240306-WA0032.jpg
+- path: assets/img/06/IMG-20240306-WA0032.webp
   desc: "if you eat too much"
-- path: assets/img/06/IMG-20240306-WA0031.jpg
+- path: assets/img/06/IMG-20240306-WA0031.webp
   desc: "you get very fat"
-- path: assets/img/06/IMG_20240306_100631.jpg
+- path: assets/img/06/IMG_20240306_100631.webp
   desc: "Exotic food"
-- path: assets/img/06/IMG-20240306-WA0037.jpg
+- path: assets/img/06/IMG-20240306-WA0037.webp
   desc: "Statue of Sudirman, featuring Paul"
-- path: assets/img/06/IMG-20240306-WA0026.jpg
+- path: assets/img/06/IMG-20240306-WA0026.webp
   desc: "Paul visiting elementary school"
-- path: assets/img/06/IMG-20240306-WA0021.jpg
+- path: assets/img/06/IMG-20240306-WA0021.webp
   desc: "Paul and Fifi"
 ---
 
@@ -66,7 +66,7 @@ Als ich auf die letzte Frage "Jerman" antworte, kommt kurze Zeit später ein kle
 "Do you know Roblox?"
 Die Fragewut der Kinder nimmt eher zu als ab, insbesondere nachdem sie merken, dass ich nicht beiße und eigentlich ganz normal bin (obwohl ich nur "sedikit" Indonesisch spreche). Eine Lehrerin kommt vorbei und macht ein Selfie mit mir. Ein paar Kinder wollen auch aufs Foto; sie dürfen auf ein Foto mit drauf, werden aber für das nächste Foto aus dem Bild raus gescheucht. Die Rektorin (soweit ich weiß auch mit Bapak befreunded) kommt vorbei und unterhält sich mit Bapak, während sie uns über das restliche Schulgelände führt. 
 
-Die Schule sieht aus wie eine [Schule](/meerhan/assets/img/school.jpg), wenn auch ähnlich heruntergekommen wie viele Gebäude hier. Putz bröckelt, manche Wände zeigen Risse. Bei Schönheitsmakeln ist man hier sehr pragmatisch. Wenn die Funktion nicht eingeschränkt ist, steckt man seine Arbeit und sein Geld lieber in andere Sachen; denn zu viel Geld haben hier wenige. Manche Dinge sind dementsprechend (von einer europäischen Perspektive aus) unglaublich billig - als größtes Beispiel kann hier Essen genannt werden.
+Die Schule sieht aus wie eine [Schule](/meerhan/assets/img/school.webp), wenn auch ähnlich heruntergekommen wie viele Gebäude hier. Putz bröckelt, manche Wände zeigen Risse. Bei Schönheitsmakeln ist man hier sehr pragmatisch. Wenn die Funktion nicht eingeschränkt ist, steckt man seine Arbeit und sein Geld lieber in andere Sachen; denn zu viel Geld haben hier wenige. Manche Dinge sind dementsprechend (von einer europäischen Perspektive aus) unglaublich billig - als größtes Beispiel kann hier Essen genannt werden.
 Andere Dinge, die entweder höhere Materialkosten haben (wie z.B. Schuhe) oder importiert werden (z.B. bestimmte Kosmetika) kosten deutlich mehr, manchmal so viel wie in Deutschland (ich habe vor ein paar Tagen eine Hautcreme der Marke "Bodyshop" gesehen, zu einem Preis von 500.000 IDR (etwa 30€)) - und sind damit außer Reichweite für viele Menschen hier.
 Der Mindestlohn hängt von der Region ab; er bewegt sich aber in der Region von 3 Millionen IDR pro Monat, was in etwa so viel ist, wie man in einer Ausbildung als Schneider in einem kleinen Dorf in Rheinland-Pfalz bekommt.
 Man stelle sich die oben erwähnte Hautcreme auf den deutschen Mindestlohn von etwa 1500€ hochgerechnet vor - etwa 250€ für eine Dose.

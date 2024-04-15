@@ -349,6 +349,10 @@ hr {
     grid-template-rows: repeat(6, 300px);
   }
 
+  .grid-container-large {
+    grid-template-rows: repeat(9, 300px) !important;
+  }
+
   .grid-main-item {
     grid-column: 1 / 2;
     grid-row: 1 / 2;

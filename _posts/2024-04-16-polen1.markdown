@@ -4,33 +4,33 @@ title:  "Mit Meehan NICHT ans Meer ran"
 date:   2024-04-16 22:30 +0200
 imgs: 
 
-  - path: assets/img/IMG_20240416_073119.jpg
+  - path: assets/img/p16/IMG_20240416_073119.jpg
     desc: "Paul und Karl melden sich zum Dienst"
-  - path: assets/img/IMG_20240416_101935.jpg
+  - path: assets/img/p16/IMG_20240416_101935.jpg
     desc: "Die... Indonesische Flagge?"
-  - path: assets/img/IMG_20240416_185129.jpg
+  - path: assets/img/p16/IMG_20240416_185129.jpg
     desc: "Irgendein Gebäude, das wichtig aussieht"
-  - path: assets/img/IMG_20240416_185131.jpg
+  - path: assets/img/p16/IMG_20240416_185131.jpg
     desc: "...aus einem anderem Winkel. Es ist sehr groß"
-  - path: assets/img/IMG_20240416_185232.jpg
+  - path: assets/img/p16/IMG_20240416_185232.jpg
     desc: "Ein paar schöne Gebäude"
-  - path: assets/img/IMG_20240416_190055.jpg
+  - path: assets/img/p16/IMG_20240416_190055.jpg
     desc: "Das sieht auch wichtig aus"
-  - path: assets/img/IMG_20240416_190426.jpg
+  - path: assets/img/p16/IMG_20240416_190426.jpg
     desc: "Ein großer Turm"
-  - path: assets/img/IMG_20240416_191409.jpg
+  - path: assets/img/p16/IMG_20240416_191409.jpg
     desc: "We feel kind of out of place right now. Prices are in zloti, so that Negroni for 76 actually only costs 19€"
-  - path: assets/img/IMG_20240416_193024.jpg
+  - path: assets/img/p16/IMG_20240416_193024.jpg
     desc: "I do not often see people so happy to consume egg"
-  - path: assets/img/a_egg3.jpg
+  - path: assets/img/p16/a_egg3.jpg
     desc: "EGG"
-  - path: assets/img/a_egg2.jpg
+  - path: assets/img/p16/a_egg2.jpg
     desc: "EGG"
-  - path: assets/img/a_egg1.jpg
+  - path: assets/img/p16/a_egg1.jpg
     desc: "EGG"
-  - path: assets/img/egg2.png
+  - path: assets/img/p16/egg2.png
     desc: "OMNOMNOMNOM"
-  - path: assets/img/paul.jpg
+  - path: assets/img/p16/paul.jpg
     desc: "Look mom I'm on TV"
 
 ---
@@ -55,7 +55,7 @@ Natürlich mussten die Pommes frisch gemacht werden, als ich sie bestellte - es 
 
 ---
 
-Endlich angekommen, wollten wir das Hotel beziehen, aber wir waren leider zu schnell da und mussten noch darauf warten, dass die Blutflecken etc. von unseren Vorbewohnern aus den Zimmern entfernt wurden. Die Zeit vertrieben wir uns unter anderem mit dem Lesen der (1-Stern-Bewertungen über das Hotel)[https://www.google.com/maps/place/DS+i+Hotel+%C5%BBaczek/@50.0602239,19.9196768,18z/data=!4m14!1m2!2m1!1szaczek+krakow!3m10!1s0x47165b0a98a96f43:0x4607552718c294f!5m2!4m1!1i2!8m2!3d50.060224!4d19.9219909!9m1!1b1!16s%2Fg%2F11c4bmrbrz?entry=ttu]. Diese warnten uns vor schimmligem Frühstücksbrot, braunem Leitungswasser, kaltem und fettigem Fleisch zu Mittag, sowie der allgemeinen Knastatmosphäre, den rassistischen Rezeptionisten, und unbenannten Krankheiten, die man hier wohl alle finden könnte.   
+Endlich angekommen, wollten wir das Hotel beziehen, aber wir waren leider zu schnell da und mussten noch darauf warten, dass die Blutflecken etc. von unseren Vorbewohnern aus den Zimmern entfernt wurden. Die Zeit vertrieben wir uns unter anderem mit dem Lesen der [1-Stern-Bewertungen über das Hotel](https://www.google.com/maps/place/DS+i+Hotel+%C5%BBaczek/@50.0602239,19.9196768,18z/data=!4m14!1m2!2m1!1szaczek+krakow!3m10!1s0x47165b0a98a96f43:0x4607552718c294f!5m2!4m1!1i2!8m2!3d50.060224!4d19.9219909!9m1!1b1!16s%2Fg%2F11c4bmrbrz?entry=ttu). Diese warnten uns vor schimmligem Frühstücksbrot, braunem Leitungswasser, kaltem und fettigem Fleisch zu Mittag, sowie der allgemeinen Knastatmosphäre, den rassistischen Rezeptionisten, und unbenannten Krankheiten, die man hier wohl alle finden könnte.   
 Ich muss aber sagen, dass ich noch keine Krankheit gefunden hätte, die keinen Namen hat, das Mittagessen war vielleicht kein Michelinrestaurant, aber definitiv auch kein Michelinreifen, das Leitungswasser ist klar und hat genausowenige braune Tendenzen wie die Rezeptionisten, und die versprochenen Gitter an den Fenstern hat unser Zimmer auch nicht. Allein über das Frühstück kann ich zu diesem Zeitpunkt noch keine Aussage treffen.
 
 Um meinen Rücken und restlichen Körper ein wenig zu entlasten, suchte ich nach dem Mittagessen eine nahegelegene Sauna auf. Die war erstaunlich mittelmäßig; traf aber ziemlich genau, was ich brauchte.
